@@ -1,3 +1,7 @@
+#Ruby on Rails tutorials: first application
+
+This is the first app for the [*Ruby on Rails Tutorials*](http://railstutorial.org) by [Michel Hartl](jttp://michaelhartl.com/).
+
 == README
 
 This README would normally document whatever steps are necessary to get the
